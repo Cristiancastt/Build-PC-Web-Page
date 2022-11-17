@@ -218,11 +218,11 @@ h2 {
     padding-top: 40px;
 }
 
-#contenidos dt {
+.contenidos dt {
     font-weight: bold;
 }
 
-#contenidos dd a {
+.contenidos dd a {
     color: rgb(59, 144, 255);
 }
 
